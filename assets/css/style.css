@@ -1,0 +1,23 @@
+body {
+    background-image: url('/assets/img/bg-bubble-blue.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tab {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+/*for tab with this must using <pre> tags*/
+.tab1 {
+    tab-size: 2;
+}
+
+.tab2 {
+    tab-size: 4;
+}
+
+.tab4 {
+    tab-size: 8;
+}
